@@ -1,0 +1,43 @@
+# ======================
+# Python-related ignores
+# ======================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# =====================
+# Custom project ignores
+# =====================
+datalama/
+output_html/
+output_html100/
+kevin/
+output/
+*.zip
+*.json
+*.xml
+*.xlsx
